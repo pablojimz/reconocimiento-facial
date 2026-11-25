@@ -1,0 +1,2347 @@
+{
+  "controls/CTRL_adam_pearson.jpg": {
+    "title": "File:Adam Pearson-64475.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Adam_Pearson-64475.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Adam_Pearson-64475.jpg/960px-Adam_Pearson-64475.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "f06136461b832279596a1c08ce69a3fc449c9580d60b8f27945e2337fa4c3b40",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2024-02-24 19:51:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Adam Pearson-64475",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Adam Pearson (actor)|Uploaded with LrMediaWiki|2024 Berlin Film Festival/Photo Project|Red carpet of the 2024 Berlin Film Festival|A Different Man|Supported by Wikimedia Deutschland 2024|Photographs by Harald Krichel from 2024",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Actor <a href=\"https://en.wikipedia.org/wiki/Adam_Pearson\" class=\"extiw\" title=\"en:Adam Pearson\">Adam Pearson</a> at the <a href=\"https://en.wikipedia.org/wiki/74nd_Berlin_International_Film_Festival\" class=\"extiw\" title=\"en:74nd Berlin International Film Festival\">74nd Berlin International Film Festival</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-02-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q640\" class=\"extiw\" title=\"d:Q640\"><span title=\"German photographer; former vice chair of Wikimedia Deutschland\">Harald Krichel</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/adam_pearson_2024.jpg",
+    "enrollment_sha256": "4a3bd1957f8ccfc02b7962c04ad2c33a9001c42dba34560a923bb3f973b943fb",
+    "candidate_sha256": "bc30e7a09a5640c9ecd99cbd8e774be948d0fd4097cc858f2929e489b7fe712c",
+    "control_sha256": "0e443229b4bbd117a5d666ddf13e6b036d4f376d32e605949a54e8ea67f421c4",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 24,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.205424+00:00"
+  },
+  "controls/CTRL_adele.jpg": {
+    "title": "File:Adele 'Adele Live 2016' - Nashville DSC04804 (30114379680) (cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Adele_%27Adele_Live_2016%27_-_Nashville_DSC04804_(30114379680)_(cropped).jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Adele_%27Adele_Live_2016%27_-_Nashville_DSC04804_%2830114379680%29_%28cropped%29.jpg/960px-Adele_%27Adele_Live_2016%27_-_Nashville_DSC04804_%2830114379680%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "1b635cd7dfe0d104dbda5a81ab3ea8a08931835e299d1e8c1a39f12a2bf698b5",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2019-06-29 07:14:52",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Adele 'Adele Live 2016' - Nashville DSC04804 (30114379680) (cropped)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Extracted images|Adele (vocalist) in 2016|Files with coordinates missing SDC location of creation",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "36.159316",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-86.778645",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "DSC04804",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2016-10-16 20:49",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/143946973@N02/30114379680/\">DSC04804</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/143946973@N02\">Kristopher Harris</a> from Charlotte, NC",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/adele_2016.jpg",
+    "enrollment_sha256": "e1df4f2f30becc83199d89fec69ceba8344164e4b0d2673d16b701bcfe1fbcbf",
+    "candidate_sha256": "3bf2cec068b1eb2610a9757a4c938bdb8b00540035120f38774e78fcba1c07cd",
+    "control_sha256": "b252e74b3b42310c6774ee9dd12fa1e240cb8ed7d23f02d5897cbb195adf6fee",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 26,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.300079+00:00"
+  },
+  "controls/CTRL_aitana_etxebarria_(twin_melody).jpg": {
+    "title": "aitana_etxebarria_(twin_melody)",
+    "source_url": "https://www.formulatv.com/personas/aitana-etxeberria-twin-melody/fotos/",
+    "download_url": "https://www.formulatv.com/images/personas/10000/r10979_th.webp",
+    "download_sha256": "9508149d9fd3e537e03d11ca4bbba5cf98d7c050783bb6d31d7cbe137d59d10b",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/aitana_etxebarria_(twin_melody)_2024.jpg",
+    "enrollment_sha256": "333ccb78acfe601b945e4438b1a8cfc372ee43918a48e16a823af28de036d9d9",
+    "candidate_sha256": "bf5b76916ee7f1503cbc800f24f8d495091383d1527cb216ad185979e40c0cfd",
+    "control_sha256": "69c6c2e41931b97f134236523f9c3d6659b3442a28b471b43162447ec30ad1d1",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.353133+00:00"
+  },
+  "controls/CTRL_anya_taylor_joy.jpg": {
+    "title": "File:Anya Taylor Joy at 28th Critics Choice Red Carpet (1'50).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anya_Taylor_Joy_at_28th_Critics_Choice_Red_Carpet_(1%2750).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Anya_Taylor_Joy_at_28th_Critics_Choice_Red_Carpet_%281%2750%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "download_sha256": "cc793d8296cf6a676ee97b7287c2010887b60fb2fd650c97b3d12653ddd7e6cf",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2024-01-24 01:18:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Anya Taylor Joy at 28th Critics Choice Red Carpet (1'50)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Files from external sources with reviewed licenses|Images with extracted images|Anya Taylor-Joy in 2023|Images from YouTube|Broadcast Film Critics Association Awards|Still images from videos by The CW Network|Still images of YouTube videos|RevengerTime uploads needing license review",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Anya Taylor Joy at 28th Critics Choice Red Carpet (1:56)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-01-13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=BK-3g8ATSis\">Critics Choice Awards - Best Fashion YouTube</a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=BK-3g8ATSis\">Critics Choice Awards - Best Fashion archive.org</a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@thecw\">The CW Network</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@thecw\">The CW Network</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/anya_taylor_joy_2025.jpg",
+    "enrollment_sha256": "fd92739ccf26b631d05371b95a6997f77c24885feeb2afc0e802a4c7a3f23a80",
+    "candidate_sha256": "fb186f34ec13fa3f6d3278cde74c3468edab7ef0886981870bb0c3c668b13985",
+    "control_sha256": "53a3cf344ae24a0479e2dec02bf1a14ef1124a797edc644bf5727a13d8c6e0ad",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 26,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.379801+00:00"
+  },
+  "controls/CTRL_arianna_grande.jpg": {
+    "title": "File:Ariana Grande as Cat Valentine.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ariana_Grande_as_Cat_Valentine.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ariana_Grande_as_Cat_Valentine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "download_sha256": "3f798f3e1e09e5adb6a47ed8786646b9d3deee1d5c7725a7938bd7cb62a1f42a",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2023-04-04 17:01:29",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Ariana Grande as Cat Valentine",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Victorious (sitcom)|Files from external sources with reviewed licenses|Ariana Grande in 2010|Images from YouTube|Still images from videos by NickRewind|Still images of YouTube videos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Ariana Grande as Cat Valentine in Victorious.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-09-11",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=EctRy915RxM\">40 Minutes of Ariana Grande as Cat Valentine | Victorious | NickRewind</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@NickRewind\">NickRewind</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/arianna_grande_2010.jpg",
+    "enrollment_sha256": "73c3f42ad85c7a81d924c072e9e75afcc17a3bc4e9733229c91138ec468adfa7",
+    "candidate_sha256": "048028e98997613fb2fc77e6858c08c6b9f46a9e3bdf7bfe73b72ac18318390f",
+    "control_sha256": "580959b9ed32bac6aa0a0b5c0863e1c44dca6a8d77aece146e9185dc38dd38fe",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.408223+00:00"
+  },
+  "controls/CTRL_brays_efe.jpg": {
+    "title": "File:Premios Goya 2019 - Brays Efe.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2019_-_Brays_Efe.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Premios_Goya_2019_-_Brays_Efe.jpg/960px-Premios_Goya_2019_-_Brays_Efe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "4d3d9763d9edc0c485bb7a7a8e3572e2331547653343a617ac2661bda495f3ed",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2019-02-20 17:54:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Premios Goya 2019 - Brays Efe",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Brays Efe|Premios Goya 2019|Self-published work|Premios Goya 2019 - Supported by Wikimedia España|Clothing in 2019|Images by user: Pedro J Pacheco|All media supported by Wikimedia España in 2019|Goya Awards 2019 by Pedro J Pacheco|Images by Pedro J Pacheco uploaded in 2019",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Brays Efe en la alfombra roja de los Premios Goya celebrados en Sevilla en Febrero 2019",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-02-02 20:14:58",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pedro_J_Pacheco\" title=\"User:Pedro J Pacheco\">Pedro J Pacheco</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/brays_efe_2017.jpg",
+    "enrollment_sha256": "1c3ba94701379302dfbb617bc930c6409a53998c18bedb3b20be7bc23746e8ff",
+    "candidate_sha256": "fbc89899a857e099933da2b2a36e88e1195cda660172231c228d91d1e8e38b02",
+    "control_sha256": "f354bdcedbe9bec5a1b8b85502e0cbdaf469105e7f2cb60a82f3b997403dd58c",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 42,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.473328+00:00"
+  },
+  "controls/CTRL_christian_bale.jpg": {
+    "title": "File:ChristianBaleJun09.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ChristianBaleJun09.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/ChristianBaleJun09.jpg/960px-ChristianBaleJun09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "bc253eb2bc5dd109a0247bc617f913ecba1152da6f81f318dc502c5cf367c92a",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2010-04-27 01:50:50",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "ChristianBaleJun09",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Public Enemies|Taken with Canon EOS 350D|Los Angeles Film Festival|Self-published work|Flickr images reviewed by trusted users|Files with derivative versions|2009 film festivals in the United States|Images uploaded by User:Nehrams2020|Christian Bale in 2009|Regency Village Theatre",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Christian Bale at the red carpet film premiere of <i>Public Enemies</i> at the Mann Village Westwood during the 2009 Los Angeles Film Festival.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-06-23",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/modenadude/3655997137/\">https://www.flickr.com/photos/modenadude/3655997137/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Asim Bharwani at <a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/modenadude/\">https://www.flickr.com/photos/modenadude/</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Creative Commons Attribution",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/modenadude/\">Asim Bharwani</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/christian_bale_2012.jpg",
+    "enrollment_sha256": "690f714d9225fed9054ecc9d8525c14b5a6c00e4b5beb499361347fb7f42f0e6",
+    "candidate_sha256": "847dfe766eb443c96072baa66e1630de563110a7f2f280dc98f1fae1625544c4",
+    "control_sha256": "d4e7113db745ec3edda77757f5d24b33a7ad73a718b0c4da2cc9a3a25cfeb539",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.531740+00:00"
+  },
+  "controls/CTRL_cynthia_erivo.jpg": {
+    "title": "File:Cynthia Erivo (82023).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cynthia_Erivo_(82023).jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Cynthia_Erivo_%2882023%29.jpg/960px-Cynthia_Erivo_%2882023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "a6d12105305891832ae285e2e034e8cbe3344956105be53f87342783584ce52e",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2018-04-30 05:10:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Cynthia Erivo (82023)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Images with extracted images|Extracted images|Files uploaded by Rhododendrites (all)|Files with coordinates missing SDC location of creation|Files by Rhododendrites - 2018-04|Photographs taken by Rhododendrites - Tribeca Film Festival|Cynthia Erivo in 2018",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "valued",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "40.721278",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-74.006234",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Time's Up event at the 2018 Tribeca Film Festival (Tribeca Talks: Time's Up). A series of talks/performances about Time's Up/sexual harassment.\nCynthia Erivo during the Reclaiming the Narrative panel.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-04-28 12:11:15",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rhododendrites\" title=\"User:Rhododendrites\">Rhododendrites</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/cynthia_erivo_2025.jpg",
+    "enrollment_sha256": "2a7f244d815d1bf22212fc569416a08251b2ca1d528226180dcab6f9277b29a3",
+    "candidate_sha256": "2827caa0bf45d61d4e06eec636ff0e06d589e7c31f92790bb1164defee2e7692",
+    "control_sha256": "b7d487bc8326c0910e2a2a08d06b58477045977d91a5f34dffbb82242bee2b42",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.562784+00:00"
+  },
+  "controls/CTRL_elisabeth_II.jpg": {
+    "title": "File:Queen Elizabeth II official portrait for 1959 tour (retouched) (cropped) (3-to-4 aspect ratio).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "download_sha256": "726d6207dd9784b469074838af247e12e75951e21711f9095de6cfabd9713f9c",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2022-11-08 20:51:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<div class=\"fn\">\nPortrait of <a href=\"https://en.wikipedia.org/wiki/Elizabeth_II\" class=\"extiw\" title=\"w:Elizabeth II\">Elizabeth II</a> (1926–2022)</div>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Retouched pictures|Images from Library and Archives Canada|PD Canada|Images from the National Portrait Gallery, London|Photographs with aspect ratio of 3:4|Images with extracted images|Elizabeth II official portrait for 1959 royal tour of Canada",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "valued",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q116854726\" class=\"extiw\" title=\"d:Q116854726\"><span title=\"Canadian photographer\">Donald McKague</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<div class=\"description\">\nOfficial portrait of <a href=\"//commons.wikimedia.org/wiki/Queen_Elizabeth_II\" class=\"mw-redirect\" title=\"Queen Elizabeth II\">Queen Elizabeth II</a> before the start of her 1959 tour, wearing the Vladimir Tiara, the Queen Victoria Jubilee Necklace, the blue Garter Riband, Badge and Garter Star and the Royal Family Orders of King George V and King George VI</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "December 1958<div style=\"display: none;\">date QS:P571,+1958-12-00T00:00:00Z/10</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<p><a href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\">Flickr</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/lac-bac/7195944290/\">Queen Elizabeth II wearing crown, blue sash and pink gown</a>\n</p>\n<table class=\"layouttemplate\" lang=\"en\" dir=\"ltr\" style=\"margin:.5em auto;width:100%;background:var(--background-color-neutral-subtle,#f8f8f8);border:2px solid var(--border-color-muted,#EEE);color: inherit;padding:5px\">\n\n<tbody><tr>\n<td style=\"padding:5px\"><div class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Applications-graphics.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/60px-Applications-graphics.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"45\" height=\"45\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/120px-Applications-graphics.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></a></span></div>\n</td>\n<td style=\"width:100%\">This  is a <i><b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Image_editing\" class=\"extiw\" title=\"en:Image editing\"><span lang=\"en\" dir=\"ltr\">retouched picture</span></a></span></b></i>, which means that it has been digitally altered from its original version.   Modifications made by <a href=\"https://en.wikipedia.org/wiki/User:Nagualdesign\" class=\"extiw\" title=\"w:User:Nagualdesign\">nagualdesign</a>.\n<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=Retouched+picture 1%3D 2%3D 3%3D 4%3D 5%3D%5B%5BW%3AUser%3ANagualdesign%7Cnagualdesign%5D%5D\"> </span>\n</p>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<a href=\"//www.flickr.com/people/28853433@N02\" class=\"extiw\" title=\"flickruser:28853433@N02\">BiblioArchives / LibraryArchives</a> from <a href=\"https://en.wikipedia.org/wiki/en:Canada\" class=\"extiw\" title=\"w:en:Canada\"><span title=\"country in North America\">Canada</span></a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/elisabeth_II_1945.jpg",
+    "enrollment_sha256": "d39b30b462c244d3d34be185149fbb59ab95c303692ca6bbf77b0e40e34df606",
+    "candidate_sha256": "4ad9cf3c52a24d32cc3710e6b8df3107fa8533d0d39ef5663bb10ac2cbe8ae84",
+    "control_sha256": "cb6c02abc0bb5273b6b5654f1e20ea2db3b5c29a4664b45ec15d3a64d036ab4e",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.796044+00:00"
+  },
+  "controls/CTRL_ellen_page.jpg": {
+    "title": "File:Elliot Page.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Elliot_Page.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Elliot_Page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "download_sha256": "ad616700803a5e8105a061e5afad5bb05702fe519c96e691eaa588f99bec307a",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2007-12-14 01:07:18",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Elliot Page",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Items with VRTS permission confirmed|Photographs by Luke Ford|United States photographs taken on 2007-12-07|Elliot Page in 2007|2007 Breakthrough Awards",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Elliot Page at <i>Hollywood Life</i> Magazine’s 7th Annual Breakthrough Awards",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-12-09",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.lukeford.net/Images/photos4/071209/232.htm\">http://www.lukeford.net/Images/photos4/071209/232.htm</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "lukeford.net",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table style=\"padding:0.5em; border:1px solid gray; background:#eee;\">\n\n<tbody><tr>\n<td>Photographs from\n<ul><li>lukeford.net</li>\n<li>lukeisback.com taken before October 22, 2007</li>\n<li>lukeford.com before 08 August 2001</li></ul>\n<p>Which were taken by Luke Ford are released as follows: (see the <a href=\"https://en.wikipedia.org/wiki/User:Tabercil/Luke_Ford_permission\" class=\"extiw\" title=\"en:User:Tabercil/Luke Ford permission\">permission</a>)\n</p>\n<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.5/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.5/deed.en\">Attribution-Share Alike 2.5 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.5</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.5 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.5 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2007111210016632 2%3D2007111210016632\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <strong style=\"color: var(--color-content-added, darkgreen);\">reviewed</strong> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007111210016632\" class=\"extiw\" title=\"ticket:2007111210016632\">ticket #2007111210016632</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007111210016632\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007111210016632</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222007111210016632%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2007111210016632\"></span></td></tr></tbody></table>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.5",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.5",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/ellen_page_2006.jpg",
+    "enrollment_sha256": "b8624aee99540d73e2ae26f91c5083d582a601a8fa328c47f1ba21735c7f3e17",
+    "candidate_sha256": "9969cb5f6ac8faf06ba879d45bb1e96b658ec17f5aea585448140766e6bf4939",
+    "control_sha256": "e684bed677126d433778017faea8a1c8b6393e7e8f96e6e2a52a30c0c335c213",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 36,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.816862+00:00"
+  },
+  "controls/CTRL_etsy_quesada.jpg": {
+    "title": "Esty Quesada boicotea 'El rival más débil' y acaba siendo la primera eliminada - FormulaTV",
+    "source_url": "https://www.formulatv.com/noticias/esty-quesada-boicotea-el-rival-mas-debil-eliminada-130117/",
+    "download_url": "https://www.formulatv.com/images/articulos/130000/130117_WB02cJxFisRLW46o731mEU58PNgYakvez-hog.jpg",
+    "download_sha256": "367a56db1c30d29b30180bd346f60f8fefbabe57ca3605b7df90a59f39596a9b",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/etsy_quesada_2017.png",
+    "enrollment_sha256": "4494c0fcb106bff495fc196da315ccc3465dd7cedd59d8362336cca05c8b6c7b",
+    "candidate_sha256": "46652570913dfd2a53f984421391e9f6d6fcbb8a850b223f690201c04f2bae5e",
+    "control_sha256": "d6783e118faf67bacf398e383980ceb5f085f9b60975981687a0b144995a3a6c",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.871899+00:00"
+  },
+  "controls/CTRL_eva_hache.jpg": {
+    "title": "File:Presentación Premios Goya 2013 - 02.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Presentaci%C3%B3n_Premios_Goya_2013_-_02.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Presentaci%C3%B3n_Premios_Goya_2013_-_02.jpg/960px-Presentaci%C3%B3n_Premios_Goya_2013_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "ff7e557583bd15f458ed6ab552f42dff05e692998378994db593f0d92d33273d",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2012-12-24 16:30:47",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Presentación Premios Goya 2013 - 02",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Eva Hache|Taken with Canon EOS 60D|Premios Goya 2013|Enrique González Macho|Pictures by User:Kadellar|All media supported by Wikimedia España in 2012|Premios Goya 2013 - Supported by Wikimedia España",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "First press conference to introduce the Goya Awards 2013 and its host. From left to right: Enrique González Macho, president of the Spanish Film Academy; Eva Hache, host of the 2013 awards ceremony; Eva Cebrián, director of TVE's Film Department; and Emilio Pina, executive producer of the awards ceremony.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-12-19 12:41:56",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kadellar\" title=\"User:Kadellar\">Carlos Delgado</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "Carlos Delgado",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/eva_hache_2012.jpg",
+    "enrollment_sha256": "eabf1ca2ca440319b293cd30db430e83861ccf0ff0f382fad70471f00f3cbddb",
+    "candidate_sha256": "cfaa4d48608d930bd1a9defe9a7478f6ad6a025acf3b752b043ddb54c2dbb04a",
+    "control_sha256": "d43abff9de4e7f4128585dbb1ae199df0fa8fc21f9b815d584e2f0e4aa009628",
+    "crop_xyxy": [
+      250,
+      100,
+      495,
+      620
+    ],
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.897909+00:00",
+    "crop_source": "crop_sources/CTRL_eva_hache.jpg"
+  },
+  "controls/CTRL_falete.jpg": {
+    "title": "File:Madrid Pride 2025 - Falete - 250706 223344.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Madrid_Pride_2025_-_Falete_-_250706_223344.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Madrid_Pride_2025_-_Falete_-_250706_223344.jpg/960px-Madrid_Pride_2025_-_Falete_-_250706_223344.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "89ab665a7706a3897767fcd08a7f1585833592b0239d82fbf9e095aa7aef1761",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2025-07-25 12:57:23",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Madrid Pride 2025 - Falete - 250706 223344",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Personality rights warning|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2025|Madrid Gay Pride 2025 Concerts|Falete|Madrid Gay Pride 2025 - Supported by Wikimedia España",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "40.420380",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-3.696339",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Flamenco-pop singer Falete delivered an emotional performance on the Plaza de las Reinas stage at Madrid Pride 2025 on Sunday, July 6. Known for his dramatic vocal style and blend of traditional Andalusian music with contemporary flair, Falete captivated the evening crowd with a powerful set that underscored the festival's celebration of diversity and musical heritage.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-07-06 22:33:44",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Barcex\" title=\"User:Barcex\">Barcex</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "personality",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/falete_2018.jpg",
+    "enrollment_sha256": "c9d8a254c891cae08038bccd971354c2a2a65abcba7efe521fd38b4d4dde941b",
+    "candidate_sha256": "89c841184752f007fada1cd4a6ca44ffaa203986dc80db779bd40041c16680ec",
+    "control_sha256": "f8fe5063bfbe92f10ad9bc668e0e767ab2afa6bb418eb9b8c1635dd84d81abd2",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.949642+00:00"
+  },
+  "controls/CTRL_forest_whitaker.jpg": {
+    "title": "File:Forest_Whitaker_TIFF_2026_02_(cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AForest_Whitaker_TIFF_2026_02_%28cropped%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Forest_Whitaker_TIFF_2026_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "download_sha256": "aecd37aa3b81362d8c4dc7e57a6b88c6ed61fa1a3ec2cc9d432c1e1f3bccf77d",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/forest_whitaker_2014.jpg",
+    "enrollment_sha256": "4db31c346a430b5a57df405b8d3f1a8d98057897f69398190f3ca09ebb620cc3",
+    "candidate_sha256": "68396e6c34c346186e036d42268d7bf533b023ec1c79819957d4fbc3cf6a2d1c",
+    "control_sha256": "cf2101ac4c0c734d428081bfae2b08953956a05f3d48b45907f36d8d77e845f2",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 26,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:15.971499+00:00"
+  },
+  "controls/CTRL_hasbulla_magomedov.jpg": {
+    "title": "PHOTO: Viral Internet Star Hasbulla's Mugshot Released | iHeart",
+    "source_url": "https://www.iheart.com/content/2023-05-10-photo-viral-internet-star-hasbullas-mugshot-released/",
+    "download_url": "https://i.iheart.com/v3/re/new_assets/6459626b41f51e1a4377944a",
+    "download_sha256": "af165ee7c9240388bbb266ae12cafedd641be74253cda3e38cd263f744db4dcd",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/hasbulla_magomedov_2022.jpg",
+    "enrollment_sha256": "18b514a7e3e6ad7edc5c236c2652eca1257e76360d5dcb7c8535651fd21d1e01",
+    "candidate_sha256": "c57dc8cf9d9929be736e9bb1a6ce0cb2e9b9094421680a286c7028d0afded8d8",
+    "control_sha256": "6de4e2b16a8ca6731907e370aa600517069cbf2d3e376d36dbedb5b2b53622fb",
+    "crop_xyxy": [
+      520,
+      0,
+      835,
+      675
+    ],
+    "phash_distance_63_bits": 36,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:42:04.901759+00:00",
+    "crop_source": "crop_sources/CTRL_hasbulla_magomedov.jpg"
+  },
+  "controls/CTRL_hunter_schufer.jpg": {
+    "title": "File:Hunter Schafer-64987.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hunter_Schafer-64987.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Hunter_Schafer-64987.jpg/500px-Hunter_Schafer-64987.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "2bff9e6290ef336b37ba47b15bfeb92b9d7e9acec489bc8c7bfc4002a6b65e90",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2024-02-25 22:36:13",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hunter Schafer-64987",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Hunter Schafer|Uploaded with LrMediaWiki|2024 Berlin Film Festival/Photo Project|Press conferences of the 2024 Berlin Film Festival|Cuckoo (2024 film)|Supported by Wikimedia Deutschland 2024|Photographs by Harald Krichel from 2024",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Actress <a href=\"https://en.wikipedia.org/wiki/Hunter_Schafer\" class=\"extiw\" title=\"en:Hunter Schafer\">Hunter Schafer</a> at the <a href=\"https://en.wikipedia.org/wiki/74nd_Berlin_International_Film_Festival\" class=\"extiw\" title=\"en:74nd Berlin International Film Festival\">74nd Berlin International Film Festival</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-02-16",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q640\" class=\"extiw\" title=\"d:Q640\"><span title=\"German photographer; former vice chair of Wikimedia Deutschland\">Harald Krichel</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/hunter_schufer_2024.jpg",
+    "enrollment_sha256": "d1421d35151b04c8c9857ec82d41cec4f7ef7384206373fa87c7f5daac857282",
+    "candidate_sha256": "89826cd5bac8dbbfaeb0eec4894e30c97e7510fb2f281fb39b13754abeb7eb7d",
+    "control_sha256": "f767677a3ac46e151a5ec3da1dec21bbc2d9827ed0988ffa08f997750bd4bcb6",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.015482+00:00"
+  },
+  "controls/CTRL_hwang_min-hyun.jpg": {
+    "title": "File:Hwang_Minhyun_황민현_2023_03.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AHwang_Minhyun_%ED%99%A9%EB%AF%BC%ED%98%84_2023_03.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hwang_Minhyun_%ED%99%A9%EB%AF%BC%ED%98%84_2023_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "download_sha256": "25921d970388aa258dbd446febe00f7b89cd97aa7e52e78741f5809a294d5acf",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/hwang_min-hyun_2021.png",
+    "enrollment_sha256": "9efdd4fe87a554f0b15bf5afbf2d0b36a65e2ee14caf66bf3e3e4205a25a283c",
+    "candidate_sha256": "f20a095ea007a1c528da04a0bdf967171f57ff712e2f8554ac39b114b6a71dad",
+    "control_sha256": "ded98f625b2061bc4cf8210e277e1a460797e1c71fb0d5b38a4215f2cb223c2b",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.073299+00:00"
+  },
+  "controls/CTRL_idris_elba.jpg": {
+    "title": "File:Idris_Elba_A_House_of_Dynamite-21_(cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AIdris_Elba_A_House_of_Dynamite-21_%28cropped%29.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Idris_Elba_A_House_of_Dynamite-21_%28cropped%29.jpg/960px-Idris_Elba_A_House_of_Dynamite-21_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "dbe9c612f88e83e5fee5c40865f4f180247291e624d5d54a11facafe03872665",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/idris_elba_2022.jpg",
+    "enrollment_sha256": "617127705471097733532c185406e1fd00210742ecfa4c28a4ccc23485275682",
+    "candidate_sha256": "29fb9d6b425b34cb934b193cb2b33cae0dc8fd1f3351763f50fdbf219c811919",
+    "control_sha256": "9a6e826f37dd4ce6eeb67639972d0a6c9030e636a20feb5ee6063827f6652cb9",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.132043+00:00"
+  },
+  "controls/CTRL_jackie_chan.jpg": {
+    "title": "File:Jackie_Chan.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJackie_Chan.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Jackie_Chan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "download_sha256": "cdd385cda5133da2f98ff4882b03e59f2943596017e64ad9a60b247c81b90804",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/jackie_chan_2000.jpg",
+    "enrollment_sha256": "833e87344e51fa71d3744aee5b8b0aecf0ceb45a9730709bd6dce12d6ee9199a",
+    "candidate_sha256": "274e6d8f79b2b639ce257218a8d0eb18a41a49f98e5b1ff633daf048b67c0dc4",
+    "control_sha256": "31b7837fb575ece863afcf4b1cf6b2c60f5b7df8f806c40526ca11c739240712",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 38,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.172146+00:00"
+  },
+  "controls/CTRL_james_phelps_(gemelo_weasley).jpg": {
+    "title": "File:James Phelps by Gage Skidmore.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:James_Phelps_by_Gage_Skidmore.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/James_Phelps_by_Gage_Skidmore.jpg/500px-James_Phelps_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "63dff719ba35cc2bd3919e053270ded05e8b1a0776001469cc4e529abc41067a",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2023-06-07 23:20:59",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "James Phelps by Gage Skidmore",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "James Phelps|Photographs by Gage Skidmore|2023 Phoenix Fan Fusion",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/James_Phelps\" class=\"extiw\" title=\"w:James Phelps\">James Phelps</a> speaking at an event in Phoenix, Arizona.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-06-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Gage Skidmore",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Must attribute to <b>Gage Skidmore</b> if used elsewhere, other than on Wikimedia and its projects.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "Gage Skidmore",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/james_phelps_(gemelo_weasley)_2011.jpg",
+    "enrollment_sha256": "fde6109c450761c3a77cd580c999dd03e4cee9a603e4b51be62492b02b0000ae",
+    "candidate_sha256": "ba69b9035fd419ab9c04046270cd1acf156e758b41c00e474468a6fd5c17f08b",
+    "control_sha256": "9a3a1cdb6cc64a551d8d2088539343293450bb6d65394561522794b534695dbd",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.196096+00:00"
+  },
+  "controls/CTRL_joe_batalan.jpg": {
+    "title": "File:Jacob_Batalon_(28035642754)_(cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJacob_Batalon_%2828035642754%29_%28cropped%29.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Jacob_Batalon_%2828035642754%29_%28cropped%29.jpg/960px-Jacob_Batalon_%2828035642754%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "84d45f8496ae4e6f8f5da0f228f8d42be613b7188b4ad8248f1077af4c4f4e0e",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/joe_batalan_2021.jpg",
+    "enrollment_sha256": "5b5bc797708ab40ed0353e297114fa0fe4ed159b021a9c1df3fd43b8b0b8c0ab",
+    "candidate_sha256": "74c716b221d0b1aa7ed26267023b539deccb1b017b06ce459e3c234d027017df",
+    "control_sha256": "920a76a5c05e5386078d018fe1ab5add5d4980699bad22ee27ac16a695fa23c7",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.250678+00:00"
+  },
+  "controls/CTRL_jordi_hurtado.jpg": {
+    "title": "File:Jordi_Hurtado.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJordi_Hurtado.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jordi_Hurtado.jpg/960px-Jordi_Hurtado.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "05018a5169820648ea5c12ae1f95cb61305412e73e1931bb6abbcf0a61c12c24",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/jordi_hurtado_1985.jpeg",
+    "enrollment_sha256": "3e8843b6f67e485927f4fc43acf8109949ed56e9fc7eec301a72f0bc392d3fe4",
+    "candidate_sha256": "8f41d0bb47b06f4419a35cbc368db76c4fad211a6f1457e9a914dbd5b232b208",
+    "control_sha256": "16eb4d2d8e5af8c93c618657a8f5699a76c10e4e17a8db7e7f092cae3fa47417",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 24,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.433319+00:00"
+  },
+  "controls/CTRL_jorge_javier_vazquez.jpg": {
+    "title": "File:Jorge_Javier_Vázquez_2013_(cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJorge_Javier_V%C3%A1zquez_2013_%28cropped%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Jorge_Javier_V%C3%A1zquez_2013_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "download_sha256": "650a07391b3b0811c4df3155d4e07592c8344b99181a7ccaba24fd2fc8cc5f75",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/jorge_javier_vazquez_2025.jpg",
+    "enrollment_sha256": "a99b6421409b4779e87202e4c95d48754de4a740b916f06a5af99bfefe2b7f00",
+    "candidate_sha256": "fef10db87ed0e6b62c6e3387125a42ef6d96d680a269cd83b6118c8ebbfa47f9",
+    "control_sha256": "ec7bb2cf1818f4b4640b8eb3d50a70bf77c3622033686dbdf5b6e49a0913b992",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 26,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:45:52.082792+00:00"
+  },
+  "controls/CTRL_josie_totah.jpg": {
+    "title": "Josie Totah Pictures | Rotten Tomatoes",
+    "source_url": "https://www.rottentomatoes.com/celebrity/josie_totah/pictures",
+    "download_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0031WFEE.jpg",
+    "download_sha256": "d8cb04a944c76388a0c88e10057dff96c9e96e3685b22a755771849159d538af",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/josie_totah_2017.jpg",
+    "enrollment_sha256": "081e2ae0e2ad432de89a0a90d3d100ea55f13084b3a8d446c234b49d39ac3def",
+    "candidate_sha256": "83dfdf383df306ac92cea657e470bf93aadd50c4056d313a8b7589f4ac4482aa",
+    "control_sha256": "187b86745694d26538e9c4c0cbd003b7af1e50961ce16fd2b8a9356d53a1c0c0",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.496710+00:00"
+  },
+  "controls/CTRL_julie_walters.jpg": {
+    "title": "File:Julie_Walters_2014_(cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AJulie_Walters_2014_%28cropped%29.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Julie_Walters_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "download_sha256": "1558a3719cc6f8a68d60cf1b948e23c1e29aca7fb9a772d59b2e436ea553f9fe",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/julie_walters_2007.jpg",
+    "enrollment_sha256": "9b47b2dac48c7daaaef1578d1c30eb0a3ecc0ba4db7ae400b965cc8dda523c17",
+    "candidate_sha256": "1cb992c37f13f0731a749616624c47bfed805bf105594ac6b3c01ce16f91a9d4",
+    "control_sha256": "4f2fe3e3e5fd1bb0555aa73869ed7d08f6de872dc5b165f55388e70741d8495d",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 38,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.506882+00:00"
+  },
+  "controls/CTRL_keanu_reeves.jpg": {
+    "title": "keanu_reeves",
+    "source_url": "https://commons.wikimedia.org/wiki/File:KeanuReevesLakehouse.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/KeanuReevesLakehouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "download_sha256": "8664e66067c5cfa7b45eb53cbac843e91a221c64c25f0b4fb117410e9adc8425",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/keanu_reeves_2021.png",
+    "enrollment_sha256": "46f8818e2feb21b54133cb1f36abce142618240937f730a70b66645c50ccd459",
+    "candidate_sha256": "602a110533236b10c83ab4c8485867c1a760ea6bc08a98cb02d59bf92b04ce8a",
+    "control_sha256": "6790682f7ea6b20ce27135b84316cfa5df19fbd77889223d08fc9086c1532928",
+    "crop_xyxy": [
+      150,
+      0,
+      478,
+      741
+    ],
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.546861+00:00",
+    "crop_source": "crop_sources/CTRL_keanu_reeves.jpg"
+  },
+  "controls/CTRL_kim_jisoo.jpg": {
+    "title": "File:20240226 Jisoo Airport 01.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:20240226_Jisoo_Airport_01.png",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/20240226_Jisoo_Airport_01.png/500px-20240226_Jisoo_Airport_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "6bd067f8e1a23fc6e93344976c71cb07b75fa7fcd67490a0379c579bdb6451b1",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2025-02-04 03:34:08",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "20240226 Jisoo Airport 01",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Media from YouTube|Files from external sources with reviewed licenses|Jisoo in 2024|Images from Ten Asia YouTube account",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "South Korean singer and actress Jisoo airport departure in February 2024",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-02-26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=JdyZFdcOmSU\"><bdi lang=\"\">https://www.youtube.com/watch?v=JdyZFdcOmSU</bdi></a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=JdyZFdcOmSU\">archive.org</a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCY9QGuU9mBLBp_OCRNKeVSw\">K-POPIT 케이팝잇</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCY9QGuU9mBLBp_OCRNKeVSw\">K-POPIT 케이팝잇</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/kim_jisoo_2026.png",
+    "enrollment_sha256": "bdf46b1ded33270ddd3a1790fd7f5a50373f88e3ee6d8196f0124d7d80aaf1eb",
+    "candidate_sha256": "c01433eefea54fe57d4e632007ed00bdbb69a55484d30dce3d46326684d57505",
+    "control_sha256": "d882187f77cd2ae20c9d6506957de59a253aeb5b6dbe85fd410a09f7fdb5c9cc",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.590415+00:00"
+  },
+  "controls/CTRL_lady_gaga.jpg": {
+    "title": "File:Lady_Gaga_at_Joe_Biden's_inauguration_(cropped_5).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ALady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/960px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "a88e6425ca6a74ea1191309bc18d7660e8c8d9a9065d61a595a9a951364c52ed",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/lady_gaga_2009.jpg",
+    "enrollment_sha256": "99e0f0f51edc9007b84f263205b2fe849b4dce9e7739ea95376bf49583ec8f4b",
+    "candidate_sha256": "864f7756b8a9a23eed901d2a0c2d07005d8a3329808c3b9fa47d830558227f27",
+    "control_sha256": "9922d9a5d38987b3d3f147b79b76af37cdfb7ef677686e19795818d7286f0853",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.622423+00:00"
+  },
+  "controls/CTRL_lara_raj.jpg": {
+    "title": "File:Katseye_Lara_in_Seattle_(cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AKatseye_Lara_in_Seattle_%28cropped%29.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Katseye_Lara_in_Seattle_%28cropped%29.jpg/960px-Katseye_Lara_in_Seattle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "671602c6976696aeb3f63aeac724de54901b11f328dca1c6ca22c0c0390f986e",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/lara_raj_2025.jpg",
+    "enrollment_sha256": "529b2229b1dfd7bf12effdd2e1dfb7c343c8f521574f204c7231b7e4a71d5a29",
+    "candidate_sha256": "53d54efd2d0d715e07c793b5fe8b941f6515580d816a5a1cdae2f1a6d703f88b",
+    "control_sha256": "691e43b28f718713ff28eda257473391b05a66290fbaffb64847bb309cde14f9",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.669928+00:00"
+  },
+  "controls/CTRL_leticia_sabater.jpg": {
+    "title": "El impactante cambio físico de Leticia Sabater, la polémica presentadora que se pasó a la música: irreconocible a sus 59 años  - AS.com",
+    "source_url": "https://as.com/tikitakas/famosos/el-impactante-cambio-fisico-de-leticia-sabater-la-polemica-presentadora-televisiva-que-se-paso-a-la-musica-irreconocible-a-sus-59-anos-n/",
+    "download_url": "https://img.asmedia.epimg.net/resizer/v2/EIGWJQJF45JQVKV5NZRRRDH4FI.jpg?auth=6a968858e361deefd9bd7c229c8c281af36b8d2eb893b01896aa554c6580b9fd&width=1472&height=828&smart=true",
+    "download_sha256": "8a4624f7952528c205a26e47f0a9fd7730bd2721eb711df9b44bc0ac23c1b68d",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/leticia_sabater_1996.jpg",
+    "enrollment_sha256": "0cee53267ca5148d0e7d6ea89e6fc6bb93b8751925b97c379afb0eddf51b16c5",
+    "candidate_sha256": "0b128f71e76b81bb3bf4b22ac2dfdd8c15f0690876b87fcdc2335836c6f6f4a3",
+    "control_sha256": "1afe7015dd4ce93396c6d049280c85a89816833640f66bdb79a5a83ab0a34ee6",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 34,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.687400+00:00"
+  },
+  "controls/CTRL_maeb.jpg": {
+    "title": "¿Quién es La Maeb?: cuántos años tiene, de dónde es y su Wikipedia",
+    "source_url": "https://www.tunota.com/entretenimiento/quien-es-la-maeb-cuantos-anos-tiene-de-donde-es-y-su-wikipedia-2025-03-11",
+    "download_url": "https://www.tunota.com/wp-content/uploads/2025/03/principal-quien-es-la-maeb-cuantos-anos-tiene-de-donde-es-y-su-wikipedia.jpg",
+    "download_sha256": "3260da5e82af1eaa42cfab92ba9664ff97a9f19fe547e395a1b606bdda6d266d",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/maeb_2024.png",
+    "enrollment_sha256": "cb8c78fbeaa7b831e8af45b0dc16169388e54a3e82ce974dd1cc57790a97f6c9",
+    "candidate_sha256": "ce67e4971ce42324b4ed931876c91a3a974c6d2f2380235c69cd0a376006e8e9",
+    "control_sha256": "7dbcdb5c225d5e8f360374c331e81beb14234ce498814f2961586581528af463",
+    "crop_xyxy": [
+      485,
+      0,
+      1100,
+      675
+    ],
+    "phash_distance_63_bits": 34,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.707208+00:00",
+    "crop_source": "crop_sources/CTRL_maeb.jpg"
+  },
+  "controls/CTRL_mary-kate_olsen.jpg": {
+    "title": "File:Mary-Kate Olsen 2009.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mary-Kate_Olsen_2009.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mary-Kate_Olsen_2009.jpg/500px-Mary-Kate_Olsen_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "4a08d5fe81c6dbfdbbb5301aae20aded2047d3a200518b6dc9c69e30200cc8cf",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2009-06-06 01:22:39",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Mary-Kate Olsen 2009",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Mary-Kate Olsen|Taken with Olympus E-500|Personality rights warning|2009 Tribeca Film Festival|Self-published work|Photographs by David Shankbone",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Mary-Kate_Olsen\" class=\"extiw\" title=\"w:Mary-Kate Olsen\">Mary-Kate Olsen</a> at the premiere of the <a href=\"https://en.wikipedia.org/wiki/Woody_Allen\" class=\"extiw\" title=\"w:Woody Allen\">Woody Allen</a> film <i><a href=\"https://en.wikipedia.org/wiki/Whatever_Works_(film)\" class=\"extiw\" title=\"w:Whatever Works (film)\">Whatever Works</a></i> at the 2009 <a href=\"https://en.wikipedia.org/wiki/Tribeca_Film_Festival\" class=\"extiw\" title=\"w:Tribeca Film Festival\">Tribeca Film Festival</a>.  Photographer's <a rel=\"nofollow\" class=\"external text\" href=\"http://blog.shankbone.org/2009/06/08/getting-mary-kate-olsen-right/\">blog post</a> about this photo.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-04-22",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:David_Shankbone\" class=\"extiw\" title=\"w:en:David Shankbone\"><span title=\"photographer\">David Shankbone</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "personality",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/mary-kate_olsen_2011.jpg",
+    "enrollment_sha256": "55e9c6f05ad830b11ed753ff4c494c9d0446703d19970435ad8fce1f680c213d",
+    "candidate_sha256": "7d055c7c36e5f41acbe21636aab00bd68c5f3158d9fb4c81f15d874ac5b427b3",
+    "control_sha256": "53baf11b5c7c409e2a28f04fcacd3f26ed29b1b39e01cb1d4dce7762b02d16ee",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.733469+00:00"
+  },
+  "controls/CTRL_metrika.jpg": {
+    "title": "Metrika: “No me puedes seguir moralmente porque soy una chavala que canta ‘estoy loca y adoro a Satán’: conmigo solo disfruta mi música y no me marees” | GQ España",
+    "source_url": "https://www.revistagq.com/articulo/metrika-entrevista-gq",
+    "download_url": "https://media.revistagq.com/photos/69ea0baebe13bcb8d272e1a1/16:9/w_1280,c_limit/GQ-HYPE-METRIKA%20web%20Cover.jpg",
+    "download_sha256": "de60dc5a0e5c893cbed543a35bb55bf919815f49e4342f2600ac4a916656832b",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/metrika_2024.jpeg",
+    "enrollment_sha256": "145da7919053c8b4cbc2d50bc32bf52adf014ad6990351bd03f724ce0431183d",
+    "candidate_sha256": "9884d60d3917c1df5828d1575e686d20a6ba84f1d51b9ae1c173f801e0b5edb9",
+    "control_sha256": "a7f88f56c05a47ad4975ebc5260830d1faedeefab4c162b43148e2d2cd8765c4",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 26,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.757172+00:00"
+  },
+  "controls/CTRL_michael_jackson.jpg": {
+    "title": "File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMichael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/960px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "614af0085bf81914cc9e8717a67a96c14794e18c4c3a70ee99662e2cf7c8513a",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/michael_jackson_1982.png",
+    "enrollment_sha256": "63077bf37f2ee382e6832e6e4ef71fb323da86d8bc65f01e17be29db61d2ecbf",
+    "candidate_sha256": "ee110a6b464af32555ef182212e5ccc4a405bd459ea45c2b5b3cbbedd5085ccc",
+    "control_sha256": "655962bdf751eb5d14649ef26893a63b1e643611c1d821883dbaeb03d0d5875b",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 34,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.808174+00:00"
+  },
+  "controls/CTRL_mindy_kaling.jpg": {
+    "title": "File:Mindy_Kaling_at_WWD_Style_Awards_2026.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMindy_Kaling_at_WWD_Style_Awards_2026.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mindy_Kaling_at_WWD_Style_Awards_2026.jpg/960px-Mindy_Kaling_at_WWD_Style_Awards_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "76b915114d0241b7c2989673f67577bb23f175a04f562af8a35776af42914c67",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/mindy_kaling_2008.jpg",
+    "enrollment_sha256": "d94e66a8428341aafd6dfdeb152b771ad19151d1df123219a596143e3cb391c9",
+    "candidate_sha256": "2e8ea0e639d0c5ff0bd2e3a904387ec0fec46fab5ed9cde6e780baccf880f6ed",
+    "control_sha256": "cbc111b285c511018b244888b4423caf3b9b80208967a034ff611158a1a2dc84",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 26,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.837861+00:00"
+  },
+  "controls/CTRL_nicolas_maduro.jpg": {
+    "title": "File:Nicolás_Maduro_official_portrait_(cropped_2).png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ANicol%C3%A1s_Maduro_official_portrait_%28cropped_2%29.png",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nicol%C3%A1s_Maduro_official_portrait_%28cropped_2%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "download_sha256": "577256a6aa0bbc495744805b0730f894c9e262d6ec821f736b32e1c8e62b927e",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/nicolas_maduro_2023.jpg",
+    "enrollment_sha256": "91af1c3684df428450b8a28e74b3540df84440de7dde390acfbf96c90b959872",
+    "candidate_sha256": "a22f1eeaa01bf037a744fa89759803d0a6a854e60cd595c0c2e54985fa04daa8",
+    "control_sha256": "0db590798fa1627d51421637c8af6c9c357153274d80e3af9b3e91dcbe2f8d9c",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 24,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.870079+00:00"
+  },
+  "controls/CTRL_rossy_de_palma.jpg": {
+    "title": "File:Rossy de Palma - 33558147445.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rossy_de_Palma_-_33558147445.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rossy_de_Palma_-_33558147445.jpg/960px-Rossy_de_Palma_-_33558147445.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "45e8aab379cfb508e2518f8f3551d7466edf39db1a21a0fc38a9768ebb5a9b6c",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2017-04-28 23:21:29",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Rossy de Palma - 33558147445",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Rossy de Palma|Flickr images verified by UploadWizard|Files from the Miami Film Festival Flickr stream|2017 Miami International Film Festival|Female actors in 2017",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "An Evening with the actress Rossy de Palma and Jessica Mitrani at Gusman Theater for Miami Film Festival on March 4, 2017",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-03-04 18:46:57",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/55155430@N03/33558147445/\">https://www.flickr.com/photos/55155430@N03/33558147445/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "MiamiFilmFestival",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/rossy_de_palma_2018.jpg",
+    "enrollment_sha256": "e34157e814b3eb67b0bbcd8fa40609a2574c5a75894965e47a202851ed0f5a51",
+    "candidate_sha256": "8252ec36f61cca45e1ee336de03bad179d99c177f37c464168cd857891571b8f",
+    "control_sha256": "1493e2cdc1d7c51807df8a4cb437c9b7f6e972f310d62b4c372dc89a3977e0b4",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.912587+00:00"
+  },
+  "controls/CTRL_salma_hayek.jpg": {
+    "title": "File:MKr383631_Salma_Hayek_(Women_In_Motion,_Cannes_2025)_crop.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AMKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg/960px-MKr383631_Salma_Hayek_%28Women_In_Motion%2C_Cannes_2025%29_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "c232a13fd87ce3ec79bb420d677196550b384a1d5576c947794dc11b9e5afdd6",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/salma_hayek_2012.jpg",
+    "enrollment_sha256": "63edd30191c8065e2aa05c682c16e79c204f32e9e3bbffbdd01d31e2f8833aed",
+    "candidate_sha256": "6156f72d47b79a783207dfcc1850bf54d6e9d52bc924b0006ff707d4c8d7c380",
+    "control_sha256": "abd8a987b21ca1295e70fd24f6de885fd5cc52189813a6f11d930e1eef84cd5d",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:16.964866+00:00"
+  },
+  "controls/CTRL_samuel_l_jackson.jpg": {
+    "title": "File:SamuelLJackson.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASamuelLJackson.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/960px-SamuelLJackson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "c7e99b4d232c3921c08cd771d2ebf628e19bcc79ec9c31c37d120b6d1ae5035e",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/samuel_l_jackson_2012.jpg",
+    "enrollment_sha256": "7c19cd0563c65b48a41cfed159e2934595f795a67f81329e3b875080cec191d2",
+    "candidate_sha256": "3270206ac3475eabb045461ddd3a9fd0e43a1918dcb8714df54ab57f415efc3c",
+    "control_sha256": "d20ed8041408c3c1cdf89448d2c1b8da70dc3d91a4b35f31dfa191d72ba76682",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.003268+00:00"
+  },
+  "controls/CTRL_santiago_segura.jpg": {
+    "title": "File:Santiago Segura.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Santiago_Segura.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Santiago_Segura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "download_sha256": "e2e252cd7b5b81c9c231262e2155a2fc1270a32c1a71b0d574440b29245a036a",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2008-02-10 11:59:26",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Santiago Segura",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Santiago Segura|LaSexta|Files with derivative versions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Spanish actor and film maker <a href=\"https://en.wikipedia.org/wiki/Santiago_Segura\" class=\"extiw\" title=\"w:Santiago Segura\">Santiago Segura</a>.",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.20minutos.es/imagen/581514\">http://www.20minutos.es/imagen/581514</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "20 Minutos",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.20minutos.es/licencia_20_minutos/\">http://www.20minutos.es/licencia_20_minutos/</a> (cc-by-sa-2.1)",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.1 es",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.1 es",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.1-es",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/santiago_segura_2019.jpg",
+    "enrollment_sha256": "42f089353983dc830583935c185cc990fa68a6ba8f7ccf2bb48a2bdbc613ee56",
+    "candidate_sha256": "327c04d7312d4c3f196c38b65d3a033f138a0c8abe6e04a7fc2c1f996a7c153a",
+    "control_sha256": "3dc50375eb79557ac25f698417476f48feeaa8fca6709a493f8dc7bf4761495a",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.022313+00:00"
+  },
+  "controls/CTRL_serenna_williams.jpg": {
+    "title": "File:Serena-Smiling-2020.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ASerena-Smiling-2020.png",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Serena-Smiling-2020.png/960px-Serena-Smiling-2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "84d8877417d0abcf31bf5952b050a5506cbafd7727f8a964102a67483ad0ef4c",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/serenna_williams_2017.jpg",
+    "enrollment_sha256": "6b54c8d3cde7b33ef19746fd934bf941157a6f34220b91fe295f83e0eeaad4ca",
+    "candidate_sha256": "db93b7d999e3cd6b2b867e9e9b9413f6f52e03f37e26d56de4113b55a18ac55e",
+    "control_sha256": "aca5e40ce04980c12afe18aa02a9584a3bb321a0354745bc8629b63ef5a06114",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.060459+00:00"
+  },
+  "controls/CTRL_stevie_wonder.jpg": {
+    "title": "stevie_wonder",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stevie_Wonder.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Stevie_Wonder.jpg/500px-Stevie_Wonder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "8a13f05e17a631918941ea49793eb78d257a304a7f77aa54f730bcf64c769c42",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/stevie_wonder_1994.jpg",
+    "enrollment_sha256": "94bb1dd82f611a3a340e6d79ee7a08c5d5d561ee221ca7ddd51275b36ebf1028",
+    "candidate_sha256": "2409f368366b62d7eebcae0a22ae3e9c00ef963dad333948970f3312247fae7b",
+    "control_sha256": "d29691ffac24321ab578293465023b420eeb454bbeb3aea6fbca727db2a790c6",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 32,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.082830+00:00"
+  },
+  "controls/CTRL_taylor_swift.jpg": {
+    "title": "File:Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_(3).png",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATaylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/960px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "5b307010e8e7cdca4ef022aef2e8b06ae6d0e3103aedc719881e59b3996c9a0f",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/taylor_swift_2009.jpg",
+    "enrollment_sha256": "66896be42396f04b7938fd9842c2ce33200788398da100f3c96fb7fbcd10c5ae",
+    "candidate_sha256": "189cf3081b3fed674a9b188bd596702a103008e223aad30f6b1094939f00582f",
+    "control_sha256": "a9ccc437130daade70e16eb2b174be845ddb8e9c25d41ecebefe4440351eb9ea",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 34,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.121077+00:00"
+  },
+  "controls/CTRL_temuera_morrison.jpg": {
+    "title": "File:Temuera_Morrison_at_Los_Angeles_Comic_Con_2026-5.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3ATemuera_Morrison_at_Los_Angeles_Comic_Con_2026-5.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Temuera_Morrison_at_Los_Angeles_Comic_Con_2026-5.jpg/960px-Temuera_Morrison_at_Los_Angeles_Comic_Con_2026-5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "22963bf4e2780b3bb8ce837aba467f7d5dcbd4a57dfd3fd4dd1b7071ca2a0a2a",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/temuera_morrison_2002.jpg",
+    "enrollment_sha256": "5f39c14ef50a9cfc6b5db1da2d0ded51bef0be229951506899ccd625ff749891",
+    "candidate_sha256": "b15988251fb6c3ea99068bb21c131d5cf846218783a68e6118a83117d5efdd76",
+    "control_sha256": "5dc7f93891298ba82d21e4aa784182a756ed938012dfb698caa80340eb5a27e8",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 34,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.166202+00:00"
+  },
+  "controls/CTRL_tilda_swinton.jpg": {
+    "title": "File:Tilda Swinton at the 2024 Toronto International Film Festival 4.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tilda_Swinton_at_the_2024_Toronto_International_Film_Festival_4.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Tilda_Swinton_at_the_2024_Toronto_International_Film_Festival_4.jpg/500px-Tilda_Swinton_at_the_2024_Toronto_International_Film_Festival_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "3efaaec93b8fbcc60a012c627ed40dc5748487d7baf52b6f6ce94513ee837ea6",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2024-09-25 17:15:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Tilda Swinton at the 2024 Toronto International Film Festival 4",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Personality rights warning|Self-published work|Information field template with formatting|Tilda Swinton in 2024|WikiPortraits at 2024 Toronto International Film Festival|WikiPortraits photos of females|WikiPortraits photos by Jennifer 8. Lee|2024 TIFF Premiere of The Room Next Door",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Tilda Swinton, actor, at the 2024 Toronto International Film Festival (TIFF) in Toronto, Canada",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-09-07 19:39:15",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jenny8lee\" title=\"User:Jenny8lee\">Jennifer 8. Lee</a>",
+        "source": "commons-desc-page"
+      },
+      "Attribution": {
+        "value": "Jennifer 8. Lee / WikiPortraits",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "personality",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/tilda_swinton_2025.jpg",
+    "enrollment_sha256": "7440f654a79177bc1b056fa7ec7ffef873cc643d418642b17a2fb223fcd52d90",
+    "candidate_sha256": "6ffa06585fc647ea61e83a52b30c2fac26b510154514969ebb8ed7658d05780c",
+    "control_sha256": "75a756a481784a903b9c4b24ea7f747b0b146f54a39ed9cb7d9673d139f7677f",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.186488+00:00"
+  },
+  "controls/CTRL_tini.jpg": {
+    "title": "File:Martina Stoessel 2017.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Martina_Stoessel_2017.png",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Martina_Stoessel_2017.png/500px-Martina_Stoessel_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "ac6edd7fe34acb57bbe1fdb118463119eb6b8d372c19d2ca803c89c2abf662eb",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2019-04-17 00:48:34",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Martina Stoessel 2017",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Tini Stoessel|Files from external sources with reviewed licenses|Videos from Vimeo",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Martina Stoessel en grabación del video \"Si tú te vas\"",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-07-20",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/226302540\" href=\"https://vimeo.com/226302540\">Making Of: “Si tú te vas”. Videoclip de Tini Stoessel.</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/226302540\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/1000studio\">MIL STUDIO</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/tini_2021.png",
+    "enrollment_sha256": "5739ae2d5c2c14f8a1d83b6bebf9ef7329b6fe2462cb0d5099e7ba13b691c4d3",
+    "candidate_sha256": "059f19f9acb72c93fd1f8d2d9954af3db5e24d47adb8ee6735c04e3757dfdb4a",
+    "control_sha256": "bfc977d085531ddec87bc494cfe31519ac311509b2ef50fe25320fe2603bb109",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 24,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.223384+00:00"
+  },
+  "controls/CTRL_wiliem_dafoe.jpg": {
+    "title": "File:Willem_Dafoe_at_78th_Locarno_Film_Festival_(cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AWillem_Dafoe_at_78th_Locarno_Film_Festival_%28cropped%29.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Willem_Dafoe_at_78th_Locarno_Film_Festival_%28cropped%29.jpg/960px-Willem_Dafoe_at_78th_Locarno_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "f534217b00395fbda477f5718192046598bd5eee41f5b5d618dadd0d4d8b6a7f",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/wiliem_dafoe_2024.jpg",
+    "enrollment_sha256": "40f95069f1c6036f9bb585bf47e0b7deaf383b7da74af23e831a77b170277c48",
+    "candidate_sha256": "fbb75babcf965646afc6ae0588ff5f6b1819818a8eba3c32d0c440214122fb80",
+    "control_sha256": "5d3b1ee465e6f6e0d1e539e9fcef654f00c3217f129f41bc4ada585ab9fb2c89",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 24,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.268106+00:00"
+  },
+  "controls/CTRL_winnie_harlow.jpg": {
+    "title": "File:Winnie Harlow in 2019.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Winnie_Harlow_in_2019.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Winnie_Harlow_in_2019.jpg/500px-Winnie_Harlow_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "download_sha256": "9c08b288dd3eaf540174e24db2816cd0166a82959f07c25640e22d2fb5fe5e72",
+    "download_metadata": {
+      "DateTime": {
+        "value": "2021-08-15 00:41:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Winnie Harlow in 2019",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Winnie Harlow|Videos from Vimeo|RevengerTime uploads needing license review",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Winnie Harlow at Harper's Baazar House of Icons 2019",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-09-23",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/361904975\" href=\"https://vimeo.com/361904975\">House of ICONS 2019 | Harper’s Bazaar</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/361904975\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/mrdume\">Mr_Dume</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "enrollment_image": "../enrollment/winnie_harlow_2018.jpg",
+    "enrollment_sha256": "f7fe7a56512183f49c4dbbb1cf7c13283038faaa0ced3ba269bcff9a341fe2bf",
+    "candidate_sha256": "248cba22487e211fc7e3379e52b9338fab14a22942037701338fc5bebc511c36",
+    "control_sha256": "598c60ddb73bdb4e243895d3e47971d9a105735147f8b995c4892532d1d8b53f",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 28,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.280649+00:00"
+  },
+  "controls/CTRL_zack_efron.jpg": {
+    "title": "File:Zac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AZac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Zac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg/960px-Zac_Efron_at_the_Baywatch_Red_Carpet_Premiere_Sydney_Australia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "13b62ebcf84ade4344bc4e4eb17bfc0f17593f0c6fa336e486f8703a8065394f",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/zack_efron_2007.jpg",
+    "enrollment_sha256": "8930995bcbca551572c88a80e6085a7063db81a0d3119fc5774d1fdb25d1e6a8",
+    "candidate_sha256": "811e9db85521f7fb145d34d6464afee93a006b33dcec62ae0006586cb5e0e1c0",
+    "control_sha256": "fa74e18c0069cb69719b630655e4a8ced9dd47d5fde2b8173491c9ce4c1c895b",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 30,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.326935+00:00"
+  },
+  "controls/CTRL_zoe_saldana.jpg": {
+    "title": "File:Zoe_Saldaña_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File%3AZoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg",
+    "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Zoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/960px-Zoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "download_sha256": "c15dd9e6c6bf28a84b370b0be8682c638fe824d5600ed8349886be503b48ec4f",
+    "download_metadata": null,
+    "enrollment_image": "../enrollment/zoe_saldana_2009.jpg",
+    "enrollment_sha256": "6ad923b96dc7196baa7b45a1bbd62d0c0aa12afb3e66569f5ddf6c9a52db2ffb",
+    "candidate_sha256": "b449a45146b858ef7cdbfca29d94cccb64159580adfebac4e06ad42bd1a921a9",
+    "control_sha256": "98552c6f3ec742ae7ef5a480ca70964718603d2711382827e4b00a3d4c791516",
+    "crop_xyxy": null,
+    "phash_distance_63_bits": 34,
+    "selection_criterion": "Revisión visual y procedencia; fotografía distinta. Selección sin consultar puntuaciones biométricas.",
+    "selected_at_utc": "2026-11-12T17:41:17.379385+00:00"
+  }
+}

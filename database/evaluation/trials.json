@@ -1,0 +1,884 @@
+[
+  {
+    "image": "controls/CTRL_adam_pearson.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "adam_pearson",
+    "policy": "recognize",
+    "claimed_identities": [
+      "adam_pearson"
+    ]
+  },
+  {
+    "image": "controls/CTRL_adele.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "adele",
+    "policy": "recognize",
+    "claimed_identities": [
+      "adele"
+    ]
+  },
+  {
+    "image": "controls/CTRL_aitana_etxebarria_(twin_melody).jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "aitana_etxebarria_(twin_melody)",
+    "policy": "recognize",
+    "claimed_identities": [
+      "aitana_etxebarria_(twin_melody)"
+    ]
+  },
+  {
+    "image": "controls/CTRL_anya_taylor_joy.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "anya_taylor_joy",
+    "policy": "recognize",
+    "claimed_identities": [
+      "anya_taylor_joy"
+    ]
+  },
+  {
+    "image": "controls/CTRL_arianna_grande.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "arianna_grande",
+    "policy": "recognize",
+    "claimed_identities": [
+      "arianna_grande"
+    ]
+  },
+  {
+    "image": "controls/CTRL_brays_efe.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "brays_efe",
+    "policy": "recognize",
+    "claimed_identities": [
+      "brays_efe"
+    ]
+  },
+  {
+    "image": "controls/CTRL_christian_bale.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "christian_bale",
+    "policy": "recognize",
+    "claimed_identities": [
+      "christian_bale"
+    ]
+  },
+  {
+    "image": "controls/CTRL_cynthia_erivo.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "cynthia_erivo",
+    "policy": "recognize",
+    "claimed_identities": [
+      "cynthia_erivo"
+    ]
+  },
+  {
+    "image": "controls/CTRL_elisabeth_II.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "elisabeth_II",
+    "policy": "recognize",
+    "claimed_identities": [
+      "elisabeth_II"
+    ]
+  },
+  {
+    "image": "controls/CTRL_ellen_page.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "ellen_page",
+    "policy": "recognize",
+    "claimed_identities": [
+      "ellen_page"
+    ]
+  },
+  {
+    "image": "controls/CTRL_etsy_quesada.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "etsy_quesada",
+    "policy": "recognize",
+    "claimed_identities": [
+      "etsy_quesada"
+    ]
+  },
+  {
+    "image": "controls/CTRL_eva_hache.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "eva_hache",
+    "policy": "recognize",
+    "claimed_identities": [
+      "eva_hache"
+    ]
+  },
+  {
+    "image": "controls/CTRL_falete.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "falete",
+    "policy": "recognize",
+    "claimed_identities": [
+      "falete"
+    ]
+  },
+  {
+    "image": "controls/CTRL_forest_whitaker.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "forest_whitaker",
+    "policy": "recognize",
+    "claimed_identities": [
+      "forest_whitaker"
+    ]
+  },
+  {
+    "image": "controls/CTRL_hasbulla_magomedov.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "hasbulla_magomedov",
+    "policy": "recognize",
+    "claimed_identities": [
+      "hasbulla_magomedov"
+    ]
+  },
+  {
+    "image": "controls/CTRL_hunter_schufer.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "hunter_schufer",
+    "policy": "recognize",
+    "claimed_identities": [
+      "hunter_schufer"
+    ]
+  },
+  {
+    "image": "controls/CTRL_hwang_min-hyun.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "hwang_min-hyun",
+    "policy": "recognize",
+    "claimed_identities": [
+      "hwang_min-hyun"
+    ]
+  },
+  {
+    "image": "controls/CTRL_idris_elba.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "idris_elba",
+    "policy": "recognize",
+    "claimed_identities": [
+      "idris_elba"
+    ]
+  },
+  {
+    "image": "controls/CTRL_jackie_chan.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "jackie_chan",
+    "policy": "recognize",
+    "claimed_identities": [
+      "jackie_chan"
+    ]
+  },
+  {
+    "image": "controls/CTRL_james_phelps_(gemelo_weasley).jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "james_phelps_(gemelo_weasley)",
+    "policy": "recognize",
+    "claimed_identities": [
+      "james_phelps_(gemelo_weasley)"
+    ]
+  },
+  {
+    "image": "controls/CTRL_joe_batalan.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "joe_batalan",
+    "policy": "recognize",
+    "claimed_identities": [
+      "joe_batalan"
+    ]
+  },
+  {
+    "image": "controls/CTRL_jordi_hurtado.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "jordi_hurtado",
+    "policy": "recognize",
+    "claimed_identities": [
+      "jordi_hurtado"
+    ]
+  },
+  {
+    "image": "controls/CTRL_jorge_javier_vazquez.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "jorge_javier_vazquez",
+    "policy": "recognize",
+    "claimed_identities": [
+      "jorge_javier_vazquez"
+    ]
+  },
+  {
+    "image": "controls/CTRL_josie_totah.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "josie_totah",
+    "policy": "recognize",
+    "claimed_identities": [
+      "josie_totah"
+    ]
+  },
+  {
+    "image": "controls/CTRL_julie_walters.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "julie_walters",
+    "policy": "recognize",
+    "claimed_identities": [
+      "julie_walters"
+    ]
+  },
+  {
+    "image": "controls/CTRL_keanu_reeves.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "keanu_reeves",
+    "policy": "recognize",
+    "claimed_identities": [
+      "keanu_reeves"
+    ]
+  },
+  {
+    "image": "controls/CTRL_kim_jisoo.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "kim_jisoo",
+    "policy": "recognize",
+    "claimed_identities": [
+      "kim_jisoo"
+    ]
+  },
+  {
+    "image": "controls/CTRL_lady_gaga.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "lady_gaga",
+    "policy": "recognize",
+    "claimed_identities": [
+      "lady_gaga"
+    ]
+  },
+  {
+    "image": "controls/CTRL_lara_raj.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "lara_raj",
+    "policy": "recognize",
+    "claimed_identities": [
+      "lara_raj"
+    ]
+  },
+  {
+    "image": "controls/CTRL_leticia_sabater.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "leticia_sabater",
+    "policy": "recognize",
+    "claimed_identities": [
+      "leticia_sabater"
+    ]
+  },
+  {
+    "image": "controls/CTRL_maeb.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "maeb",
+    "policy": "recognize",
+    "claimed_identities": [
+      "maeb"
+    ]
+  },
+  {
+    "image": "controls/CTRL_mary-kate_olsen.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "mary-kate_olsen",
+    "policy": "recognize",
+    "claimed_identities": [
+      "mary-kate_olsen"
+    ]
+  },
+  {
+    "image": "controls/CTRL_metrika.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "metrika",
+    "policy": "recognize",
+    "claimed_identities": [
+      "metrika"
+    ]
+  },
+  {
+    "image": "controls/CTRL_michael_jackson.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "michael_jackson",
+    "policy": "recognize",
+    "claimed_identities": [
+      "michael_jackson"
+    ]
+  },
+  {
+    "image": "controls/CTRL_mindy_kaling.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "mindy_kaling",
+    "policy": "recognize",
+    "claimed_identities": [
+      "mindy_kaling"
+    ]
+  },
+  {
+    "image": "controls/CTRL_nicolas_maduro.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "nicolas_maduro",
+    "policy": "recognize",
+    "claimed_identities": [
+      "nicolas_maduro"
+    ]
+  },
+  {
+    "image": "controls/CTRL_rossy_de_palma.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "rossy_de_palma",
+    "policy": "recognize",
+    "claimed_identities": [
+      "rossy_de_palma"
+    ]
+  },
+  {
+    "image": "controls/CTRL_salma_hayek.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "salma_hayek",
+    "policy": "recognize",
+    "claimed_identities": [
+      "salma_hayek"
+    ]
+  },
+  {
+    "image": "controls/CTRL_samuel_l_jackson.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "samuel_l_jackson",
+    "policy": "recognize",
+    "claimed_identities": [
+      "samuel_l_jackson"
+    ]
+  },
+  {
+    "image": "controls/CTRL_santiago_segura.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "santiago_segura",
+    "policy": "recognize",
+    "claimed_identities": [
+      "santiago_segura"
+    ]
+  },
+  {
+    "image": "controls/CTRL_serenna_williams.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "serenna_williams",
+    "policy": "recognize",
+    "claimed_identities": [
+      "serenna_williams"
+    ]
+  },
+  {
+    "image": "controls/CTRL_stevie_wonder.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "stevie_wonder",
+    "policy": "recognize",
+    "claimed_identities": [
+      "stevie_wonder"
+    ]
+  },
+  {
+    "image": "controls/CTRL_taylor_swift.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "taylor_swift",
+    "policy": "recognize",
+    "claimed_identities": [
+      "taylor_swift"
+    ]
+  },
+  {
+    "image": "controls/CTRL_temuera_morrison.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "temuera_morrison",
+    "policy": "recognize",
+    "claimed_identities": [
+      "temuera_morrison"
+    ]
+  },
+  {
+    "image": "controls/CTRL_tilda_swinton.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "tilda_swinton",
+    "policy": "recognize",
+    "claimed_identities": [
+      "tilda_swinton"
+    ]
+  },
+  {
+    "image": "controls/CTRL_tini.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "tini",
+    "policy": "recognize",
+    "claimed_identities": [
+      "tini"
+    ]
+  },
+  {
+    "image": "controls/CTRL_wiliem_dafoe.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "wiliem_dafoe",
+    "policy": "recognize",
+    "claimed_identities": [
+      "wiliem_dafoe"
+    ]
+  },
+  {
+    "image": "controls/CTRL_winnie_harlow.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "winnie_harlow",
+    "policy": "recognize",
+    "claimed_identities": [
+      "winnie_harlow"
+    ]
+  },
+  {
+    "image": "controls/CTRL_zack_efron.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "zack_efron",
+    "policy": "recognize",
+    "claimed_identities": [
+      "zack_efron"
+    ]
+  },
+  {
+    "image": "controls/CTRL_zoe_saldana.jpg",
+    "group": "controls",
+    "category": "CTRL",
+    "expected_identity": "zoe_saldana",
+    "policy": "recognize",
+    "claimed_identities": [
+      "zoe_saldana"
+    ]
+  },
+  {
+    "image": "cases/ACC_Jackie_Chan_2002.jpg",
+    "group": "cases",
+    "category": "ACC",
+    "expected_identity": "jackie_chan",
+    "policy": "recognize",
+    "claimed_identities": [
+      "jackie_chan"
+    ]
+  },
+  {
+    "image": "cases/CAB_Santiago_Segura_1991.jpg",
+    "group": "cases",
+    "category": "CAB",
+    "expected_identity": "santiago_segura",
+    "policy": "recognize",
+    "claimed_identities": [
+      "santiago_segura"
+    ]
+  },
+  {
+    "image": "cases/CAB_Santiago_Segura_2021.jpg",
+    "group": "cases",
+    "category": "CAB",
+    "expected_identity": "santiago_segura",
+    "policy": "recognize",
+    "claimed_identities": [
+      "santiago_segura"
+    ]
+  },
+  {
+    "image": "cases/CAL_Keanu_Reeves_2025.jpg",
+    "group": "cases",
+    "category": "CAL",
+    "expected_identity": "keanu_reeves",
+    "policy": "recognize",
+    "claimed_identities": [
+      "keanu_reeves"
+    ]
+  },
+  {
+    "image": "cases/CAL_Michael_Jackson_2005.jpg",
+    "group": "cases",
+    "category": "CAL",
+    "expected_identity": "michael_jackson",
+    "policy": "recognize",
+    "claimed_identities": [
+      "michael_jackson"
+    ]
+  },
+  {
+    "image": "cases/CAM_Adele_2023.jpg",
+    "group": "cases",
+    "category": "CAM",
+    "expected_identity": "adele",
+    "policy": "recognize",
+    "claimed_identities": [
+      "adele"
+    ]
+  },
+  {
+    "image": "cases/CAM_Christian_Bale_2004.jpg",
+    "group": "cases",
+    "category": "CAM",
+    "expected_identity": "christian_bale",
+    "policy": "recognize",
+    "claimed_identities": [
+      "christian_bale"
+    ]
+  },
+  {
+    "image": "cases/CAM_Christian_Bale_2013.jpg",
+    "group": "cases",
+    "category": "CAM",
+    "expected_identity": "christian_bale",
+    "policy": "reject_group",
+    "claimed_identities": [
+      "christian_bale"
+    ]
+  },
+  {
+    "image": "cases/CAM_Michael_Jackson_1997.jpg",
+    "group": "cases",
+    "category": "CAM",
+    "expected_identity": "michael_jackson",
+    "policy": "recognize",
+    "claimed_identities": [
+      "michael_jackson"
+    ]
+  },
+  {
+    "image": "cases/CIC_Seal_2025.jpg",
+    "group": "cases",
+    "category": "CIC",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIS_Lady_Gaga_2011.jpg",
+    "group": "cases",
+    "category": "DIS",
+    "expected_identity": "lady_gaga",
+    "policy": "recognize",
+    "claimed_identities": [
+      "lady_gaga"
+    ]
+  },
+  {
+    "image": "cases/DIV_Daniel_Dae_Kim_2025.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Denzel_Washington_2025.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Dev_Patel_2016.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Gemma_Chan_2026.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Jessica_Chastain_2025.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Ken_Watanabe_2022.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Lucy_Liu_2025.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Lupita_Nyongo_2026.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Margot_Robbie_2026.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Michelle_Yeoh_2026.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Priyanka_Chopra_2024.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Rupert_Grint_2012.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/DIV_Viola_Davis_2026.jpg",
+    "group": "cases",
+    "category": "DIV",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": []
+  },
+  {
+    "image": "cases/EDA_Elisabeth_II_2015.jpg",
+    "group": "cases",
+    "category": "EDA",
+    "expected_identity": "elisabeth_II",
+    "policy": "recognize",
+    "claimed_identities": [
+      "elisabeth_II"
+    ]
+  },
+  {
+    "image": "cases/GAF_Samuel_L_Jackson_2017.jpg",
+    "group": "cases",
+    "category": "GAF",
+    "expected_identity": "samuel_l_jackson",
+    "policy": "recognize",
+    "claimed_identities": [
+      "samuel_l_jackson"
+    ]
+  },
+  {
+    "image": "cases/GEM_Ashley_Olsen_2011.jpg",
+    "group": "cases",
+    "category": "GEM",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": [
+      "mary-kate_olsen"
+    ]
+  },
+  {
+    "image": "cases/GEM_Oliver_Phelps_2013.jpg",
+    "group": "cases",
+    "category": "GEM",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": [
+      "james_phelps_(gemelo_weasley)"
+    ]
+  },
+  {
+    "image": "cases/IA_Keanu_Reeves_2026.png",
+    "group": "cases",
+    "category": "IA",
+    "expected_identity": "keanu_reeves",
+    "policy": "reject_representation",
+    "claimed_identities": [
+      "keanu_reeves"
+    ]
+  },
+  {
+    "image": "cases/MUL_Christian_Bale_y_acompanantes_2011.jpg",
+    "group": "cases",
+    "category": "MUL",
+    "expected_identity": null,
+    "policy": "reject_group",
+    "claimed_identities": [
+      "christian_bale"
+    ]
+  },
+  {
+    "image": "cases/MUL_James_Phelps_y_Oliver_Phelps_2011.jpg",
+    "group": "cases",
+    "category": "MUL",
+    "expected_identity": null,
+    "policy": "reject_group",
+    "claimed_identities": [
+      "james_phelps_(gemelo_weasley)"
+    ]
+  },
+  {
+    "image": "cases/MUL_Mary_Kate_Olsen_y_Ashley_Olsen_2011.jpg",
+    "group": "cases",
+    "category": "MUL",
+    "expected_identity": null,
+    "policy": "reject_group",
+    "claimed_identities": [
+      "mary-kate_olsen"
+    ]
+  },
+  {
+    "image": "cases/OJO_Samuel_L_Jackson_2012.jpg",
+    "group": "cases",
+    "category": "OJO",
+    "expected_identity": "samuel_l_jackson",
+    "policy": "recognize",
+    "claimed_identities": [
+      "samuel_l_jackson"
+    ]
+  },
+  {
+    "image": "cases/POS_Falete_2023.jpg",
+    "group": "cases",
+    "category": "POS",
+    "expected_identity": "falete",
+    "policy": "recognize",
+    "claimed_identities": [
+      "falete"
+    ]
+  },
+  {
+    "image": "cases/PRO_Christian_Bale_2018.jpg",
+    "group": "cases",
+    "category": "PRO",
+    "expected_identity": "christian_bale",
+    "policy": "recognize",
+    "claimed_identities": [
+      "christian_bale"
+    ]
+  },
+  {
+    "image": "cases/ROT90_Christian_Bale_2012.png",
+    "group": "cases",
+    "category": "ROT90",
+    "expected_identity": "christian_bale",
+    "policy": "recognize",
+    "claimed_identities": [
+      "christian_bale"
+    ]
+  },
+  {
+    "image": "cases/SOL_Stevie_Wonder_2019.jpg",
+    "group": "cases",
+    "category": "SOL",
+    "expected_identity": "stevie_wonder",
+    "policy": "recognize",
+    "claimed_identities": [
+      "stevie_wonder"
+    ]
+  },
+  {
+    "image": "cases/TBA_Abdu_Rozik_2024.jpg",
+    "group": "cases",
+    "category": "TBA",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": [
+      "hasbulla_magomedov"
+    ]
+  },
+  {
+    "image": "cases/TBA_Jyoti_Amge_2018.jpg",
+    "group": "cases",
+    "category": "TBA",
+    "expected_identity": null,
+    "policy": "reject_unknown",
+    "claimed_identities": [
+      "hasbulla_magomedov"
+    ]
+  },
+  {
+    "image": "cases/TRA_Elliot_Page_2023.jpg",
+    "group": "cases",
+    "category": "TRA",
+    "expected_identity": "ellen_page",
+    "policy": "recognize",
+    "claimed_identities": [
+      "ellen_page"
+    ]
+  },
+  {
+    "image": "cases/V3D_Keanu_Reeves_2020.jpg",
+    "group": "cases",
+    "category": "V3D",
+    "expected_identity": "keanu_reeves",
+    "policy": "reject_representation",
+    "claimed_identities": [
+      "keanu_reeves"
+    ]
+  }
+]
